@@ -1,6 +1,6 @@
 # Flask App Repository
 
-This repository contains a Flask web application.
+This repository contains a Flask Tutorial and web application.
 
 ## Description
 
