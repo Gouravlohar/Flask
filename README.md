@@ -16,7 +16,7 @@ This Flask application serves as a basic template for building web applications 
 
 1. **Clone Repository**: 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Gouravlohar/Flask.git>
     ```
 
 2. **Install Dependencies**:
